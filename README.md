@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop_street
 
 ## 仿蘑菇街电商 Web APP
@@ -47,3 +48,7 @@ npm run build
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# shopmall
+a vue supermall
+>>>>>>> aed4e14dea65d7804be60b798f7751f295abb1e9
